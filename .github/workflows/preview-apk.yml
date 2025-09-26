@@ -1,4 +1,4 @@
-name: Upload Preview AP
+name: Upload Preview APK
 
 on: pull_request
 
